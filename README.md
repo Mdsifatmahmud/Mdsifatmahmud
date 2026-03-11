@@ -1,8 +1,7 @@
 # Hi there 👋, my name is Md.Sifat Mahmud
 ## A passionate at Machine Learning Engineer from Bangladesh
 ![A passionate at Machine Learning Engineer from Bangladesh]
-https://yt3.googleusercontent.com/7mVVc7nMlLHrR0U5Q1UxFgyW2Agc8V-ckdAnv5uIsum-gNwX6IZoxEn-VyCy9tWmp0ImiLhw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj
-
+<img src="https://yt3.googleusercontent.com/7mVVc7nMlLHrR0U5Q1UxFgyW2Agc8V-ckdAnv5uIsum-gNwX6IZoxEn-VyCy9tWmp0ImiLhw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="800"/>
 I am a student of Computer Science and Engineering at Daffodil International University, with a deep interest in Machine Learning and its applications in solving real-world problems.
 As someone who is passionate about technology and innovation, I am constantly learning and improving my skills. My focus on machine learning has allowed me to work on projects that involve predictive modeling, data analysis, and algorithm development, all of which are detailed on this site.
 
